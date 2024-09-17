@@ -17,14 +17,15 @@ I am broadly interested in different forms of artificial intelligence that carry
 
 <br/>
 If you are interested in collaborations on these topics, please drop me an email for chat.
+<br/>
 <!-- Apart from above, I frequently autodidactic myself on different topics such as **Stoic**,  **social choice theory** and more. -->
 Stay Tuned. More updates are coming pretty soon. :)
 
 ## Contact
 
-Rahul Singh Maharjan `<br/>`
-Pixel away from `<br/>`
-Email: rahulsingh.maharjan (at) manchester.ac.uk `<br/>`
+Rahul Singh Maharjan <br/>
+Pixel away from <br/>
+Email: rahulsingh.maharjan (at) manchester.ac.uk <br/>
 [[github][github]] [[google scholar][google scholar]] [[linkedin][linkedin]]
 
 [Sungkyunkwan University, South Korea]: https://www.skku.edu/eng/
