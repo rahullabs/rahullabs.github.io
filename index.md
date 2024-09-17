@@ -12,20 +12,20 @@ Hi, I am Rahul Singh Maharjan and I am Ph.D. student at the [Centre for Robotics
 I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted manner**, I spend most of weekdays and some weekends on:
 
 * Continual Learning
-* Uncertainty Driven Deep Learning
-* Human-Robot Interaction
+* Multimodal Learning
 * Affective Computing
+* Human-Robot Interaction
 
-Apart from above, I frequently autodidactic myself on different topics such as **Stoic**,  **social choice theory** and more.
+<!-- Apart from above, I frequently autodidactic myself on different topics such as **Stoic**,  **social choice theory** and more. -->
 
 <br/>
 Stay Tuned. More updates are coming pretty soon. :)
 
 ## Contact
 
-Rahul Singh Maharjan `<br />`
-Pixel away from `<br />`
-Email: rahulsingh.maharjan (at) manchester.ac.uk `<br/>`
+Rahul Singh Maharjan`<br />
+Pixel away from <br />
+Email: rahulsingh.maharjan (at) manchester.ac.uk <br/>
 [[github][github]] [[google scholar][google scholar]] [[linkedin][linkedin]]
 
 [Sungkyunkwan University, South Korea]: https://www.skku.edu/eng/
