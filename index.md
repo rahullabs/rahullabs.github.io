@@ -23,7 +23,7 @@ Stay Tuned. More updates are coming pretty soon. :)
 
 ## Contact
 
-Rahul Singh Maharjan`<br />
+Rahul Singh Maharjan <br />
 Pixel away from <br />
 Email: rahulsingh.maharjan (at) manchester.ac.uk <br/>
 [[github][github]] [[google scholar][google scholar]] [[linkedin][linkedin]]
