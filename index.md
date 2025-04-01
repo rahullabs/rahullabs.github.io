@@ -5,8 +5,7 @@ permalink: /
 ---
 {% include image.html url="images/rahul.png" caption="Me" width="400px" align="right" %}
 
-Hi, I am Rahul Singh Maharjan, and I am a Research Associate with [Angelo Cangelosi
-] at the [Centre for Robotics and AI][Centre for Robotics and AI] at [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. Recently, I completed my PhD from [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. Previously, I graduated with a Master of Science in Electrical and Computer Engineering from [Sungkyunkwan University, South Korea][Sungkyunkwan University, South Korea] at [Computer Vision Lab][Computer Vision Lab].  Prior to joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University, Nepal][Pokhara University, Nepal].
+Hi, I am Rahul Singh Maharjan, and I am a Research Associate with [Angelo Cangelosi] at the [Centre for Robotics and AI][Centre for Robotics and AI] at [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. Recently, I completed my PhD from [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. Previously, I graduated with a Master of Science in Electrical and Computer Engineering from [Sungkyunkwan University, South Korea][Sungkyunkwan University, South Korea] at [Computer Vision Lab][Computer Vision Lab].  Prior to joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University, Nepal][Pokhara University, Nepal].
 <br/>
 
 I am broadly interested in different forms of artificial intelligence that carry out assigned tasks robustly and reliably. In an unsorted manner, I spend most weekdays and some weekends on:
@@ -16,12 +15,12 @@ I am broadly interested in different forms of artificial intelligence that carry
 * Language-guided Long-horizon Robot Manipulation. 
 * Continual Learning
 
-Previously, worked on continual learning, Affective Computing, and Human-Robot Interaction.
+Previously, I worked on continual learning, Affective Computing, and Human-Robot Interaction.
 
 <br/>
 If you are interested in collaborations on these topics, please drop me an email for a chat.
 <br/>
-<!-- Apart from above, I frequently autodidactic myself on different topics such as **Stoic**,  **social choice theory** and more. -->
+<!-- Apart from the above, I frequently autodidactic myself on different topics such as **Stoic**,  **social choice theory** and more. -->
 Stay Tuned. More updates are coming pretty soon. :)
 
 ## Contact
