@@ -5,17 +5,18 @@ permalink: /
 ---
 {% include image.html url="images/rahul.png" caption="Me" width="400px" align="right" %}
 
-Hi, I am Rahul Singh Maharjan, and I am a Research Associate with [Angelo Cangelosi] at the [Centre for Robotics and AI][Centre for Robotics and AI] at [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. Recently, I completed my PhD from [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. Previously, I graduated with a Master of Science in Electrical and Computer Engineering from [Sungkyunkwan University, South Korea][Sungkyunkwan University, South Korea] at [Computer Vision Lab][Computer Vision Lab].  Prior to joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University, Nepal][Pokhara University, Nepal].
+I am Rahul Singh Maharjan, and I am a Research Associate with [Angelo Cangelosi] at the [Centre for Robotics and AI][Centre for Robotics and AI] at [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. I received my PhD from Department of Computer Science, [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. Before that, I graduated with a Master of Science in Electrical and Computer Engineering from [Sungkyunkwan University, South Korea][Sungkyunkwan University, South Korea] at [Computer Vision Lab][Computer Vision Lab].  Prior to joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University, Nepal][Pokhara University, Nepal].
 <br/>
 
-I am broadly interested in different forms of artificial intelligence that carry out assigned tasks robustly and reliably. In an unsorted manner, I spend most weekdays and some weekends on:
+**Research**
 
-* Vision-Language Models
-* Multimodal Learning
-* Language-guided Long-horizon Robot Manipulation. 
+I an unsorted manner, these days,  I spend most weekdays and some weekends working on:
+
+* Multimodal (Image/Video, Audio, Text, Sensors) Learning
+* Human Behaviour Analysis and Affective Computing
 * Continual Learning
+* Human-Agent Interaction
 
-Previously, I worked on continual learning, Affective Computing, and Human-Robot Interaction.
 
 <br/>
 If you are interested in collaborations on these topics, please drop me an email for a chat.
