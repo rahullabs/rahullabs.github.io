@@ -10,7 +10,7 @@ I am Rahul Singh Maharjan, and I am a Research Associate with [Angelo Cangelosi]
 
 ### Research
 
-I an unsorted manner, these days,  I spend most weekdays and some weekends working on:
+In an unsorted manner, these days,  I spend most weekdays and some weekends working on:
 
 * Multimodal (Image/Video, Audio, Text, Sensors) Learning
 * Human Behaviour Analysis and Affective Computing
