@@ -29,7 +29,7 @@ Stay Tuned. More updates are coming pretty soon. :)
 Rahul Singh Maharjan <br/>
 Pixel away from <br/>
 Email: rahulsingh.maharjan (at) manchester.ac.uk <br/>
-[[google scholar][google scholar]] [[linkedin][linkedin]]
+[[github][github]] [[google scholar][google scholar]] [[linkedin][linkedin]] 
 
 [Sungkyunkwan University, South Korea]: https://www.skku.edu/eng/
 [Pokhara University, Nepal]: https://pu.edu.np/
