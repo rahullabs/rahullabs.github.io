@@ -8,7 +8,7 @@ permalink: /
 I am Rahul Singh Maharjan, and I am a Research Associate with [Angelo Cangelosi] at the [Centre for Robotics and AI][Centre for Robotics and AI] at [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. I received my PhD from Department of Computer Science, [University of Manchester, United Kingdom][University of Manchester, United Kingdom]. Before that, I graduated with a Master of Science in Electrical and Computer Engineering from [Sungkyunkwan University, South Korea][Sungkyunkwan University, South Korea] at [Computer Vision Lab][Computer Vision Lab].  Prior to joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University, Nepal][Pokhara University, Nepal].
 <br/>
 
-**Research**
+### Research
 
 I an unsorted manner, these days,  I spend most weekdays and some weekends working on:
 
